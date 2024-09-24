@@ -11,7 +11,7 @@ st.sidebar.success("Select a demo above.")
 
 st.markdown(
 """
-## Trilha de Aprendizado: Do Zero ao Primeiro Projeto com Streamlit
+## Guia do Streamlit: Do Zero ao Primeiro Projeto com Streamlit
 
 Esta trilha de aprendizado vai guiá-la desde os primeiros passos com o Streamlit até a construção de um projeto real. A jornada é dividida em fases para que você possa avançar de forma organizada e prática.
 
